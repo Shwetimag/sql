@@ -1,0 +1,1 @@
+select PersonId from demo intersect select id from Employee;

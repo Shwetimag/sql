@@ -1,0 +1,1 @@
+insert into demo (PersonID, LastName, FirstName, Address, City) values('4','Parate','Prajakta','Burdi','Nagpur');

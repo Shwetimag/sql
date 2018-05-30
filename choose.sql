@@ -1,0 +1,1 @@
+SELECT CHOOSE ( 4, 'Manager', 'Director', 'Developer', 'Tester' ) AS Result;

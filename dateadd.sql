@@ -1,0 +1,1 @@
+SELECT DATEADD(month, 1, '20060830');
